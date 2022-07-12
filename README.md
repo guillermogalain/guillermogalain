@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @guillermogalain
-
-
+- 👋 Hi, I’m @guillermogalain.
+- 📍 From Montevideo, Uruguay.
+- 🧰 Front-end developer.
